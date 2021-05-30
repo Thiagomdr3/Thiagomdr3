@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thiago Cordeiro 👋
 
 <!--
 **Thiagomdr3/Thiagomdr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
