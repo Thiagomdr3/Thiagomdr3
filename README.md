@@ -6,6 +6,14 @@
 <details>
       <summary><strong>C#</strong></summary><br/>
 
+      <table>
+
+<table>
+<tr >
+<th align="center" colspan="5"><strong>Introdução a Programação com C#</strong></th></tr><tr>
+<td align="center"><a href="https://github.com/Thiagomdr3/Digital_Inovation_One/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/CalculoDivisao.cs">Dividindo X por Y</a></td>
+<td align="center">:trophy:</td>
+</tr>
 <!--
 **Thiagomdr3/Thiagomdr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
