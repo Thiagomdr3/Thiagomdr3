@@ -23,28 +23,7 @@
 <td align="center">:trophy:</td>
 </tr>
       
-<details>
-      <summary><strong>Atos e UFN - Academia .NET</strong></summary><br/>
-      
-<details>
-      <summary><strong>C#</strong></summary><br/>
 
-      
-
-<table>
-<tr >
-<th align="center" colspan="5"><strong>Exercícios com C#</strong></th></tr><tr>
-<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/CalculadoraComSwitch/CalculadoraComSwitch/Program.cs">Calculadora com SwitchCase</a></td>
-<td align="center">:trophy:</td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/CalculoAumentoSalarial/CalculoAumentoSalarial/Program.cs">Cálculo de Aumento Salarial</a></td>
-<td align="center">:trophy:</td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/ClassificarTriangulos/ClassificarTriangulos/Program.cs">Classificar Triângulos</a></td>
-<td align="center">:trophy:</td>
-</tr>
       
       
 <!--
