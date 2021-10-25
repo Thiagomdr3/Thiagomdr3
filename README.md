@@ -22,6 +22,31 @@
 <td align="center"><a href="https://github.com/Thiagomdr3/Digital_Inovation_One/blob/master/C%23/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/QuantoMandioca.cs">Quanta Mandioca?</a></td>
 <td align="center">:trophy:</td>
 </tr>
+      
+<details>
+      <summary><strong>Atos e UFN - Academia .NET</strong></summary><br/>
+      
+<details>
+      <summary><strong>C#</strong></summary><br/>
+
+      
+
+<table>
+<tr >
+<th align="center" colspan="5"><strong>Exercícios com C#</strong></th></tr><tr>
+<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/CalculadoraComSwitch/CalculadoraComSwitch/Program.cs">Calculadora com SwitchCase</a></td>
+<td align="center">:trophy:</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/CalculoAumentoSalarial/CalculoAumentoSalarial/Program.cs">Cálculo de Aumento Salarial</a></td>
+<td align="center">:trophy:</td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/Thiagomdr3/UFN-Academia-.NET/blob/thiago/Academia.NET/ClassificarTriangulos/ClassificarTriangulos/Program.cs">Classificar Triângulos</a></td>
+<td align="center">:trophy:</td>
+</tr>
+      
+      
 <!--
 **Thiagomdr3/Thiagomdr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
