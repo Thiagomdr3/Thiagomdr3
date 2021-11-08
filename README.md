@@ -3,7 +3,7 @@
 
 <p align="center"> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagomdr3&show_icons=true&title_color=000000&layout=compact&bg_color=DEG,Edf0f1,F5F5F5,Edf0f1&hide_border=true&langs_count=10" alt="Thiagomdr3"><br>  
+  
 
 
 
