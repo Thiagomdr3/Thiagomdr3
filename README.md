@@ -10,6 +10,12 @@
 
 
 
+## *Exercícios*
+
+
+
+[![](https://img.shields.io/badge/-Teste%20WeCode%20Filmes%20Pessoas-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/Thiagomdr3/WeCode_Teste_API/tree/Thiago/DesafioWebCode.api)     
+[![](https://img.shields.io/badge/-Jogo%20da%20Velha-DCDCDC?style=for-the-badge&logo=dotnet&logoColor=512BD4)](https://github.com/Thiagomdr3/Jogo-Da-Velha-WinForms)    
 
 
 
